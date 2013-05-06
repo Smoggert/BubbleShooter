@@ -1,0 +1,6 @@
+[levels_#]
+5
+[startingLevel_#]
+1
+// Do not adjust anything but the ints.
+// No spaces after the numbers

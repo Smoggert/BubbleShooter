@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Bubblegum_0.png</Source>
+      <Name>Textures\Bubblegum_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Bubblegum_0.xnb</Output>
+      <Time>2013-03-24T20:32:37.5476584+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bubblegum_1.png</Source>
+      <Name>Textures\Bubblegum_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Bubblegum_1.xnb</Output>
+      <Time>2013-03-24T22:29:33.3479392+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Border_0.png</Source>
+      <Name>Textures\Border_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Border_0.xnb</Output>
+      <Time>2013-03-30T19:26:19.5192408+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Border_1.png</Source>
+      <Name>Textures\Border_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Border_1.xnb</Output>
+      <Time>2013-03-30T19:26:00.3541446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Background_0.png</Source>
+      <Name>Textures\Background_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Background_0.xnb</Output>
+      <Time>2013-03-22T21:22:17.3826352+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Background_1.png</Source>
+      <Name>Textures\Background_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Background_1.xnb</Output>
+      <Time>2013-03-24T20:02:28.8442065+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Arrow_1.png</Source>
+      <Name>Textures\Arrow_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Arrow_1.xnb</Output>
+      <Time>2013-03-30T20:07:47.6565541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Arrow_0.png</Source>
+      <Name>Textures\Arrow_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Arrow_0.xnb</Output>
+      <Time>2013-03-22T18:42:13.2333092+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Button_0.png</Source>
+      <Name>Textures\Button_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Button_0.xnb</Output>
+      <Time>2013-03-25T00:54:58.1079669+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Button_1.png</Source>
+      <Name>Textures\Button_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Button_1.xnb</Output>
+      <Time>2013-03-25T00:55:06.9804744+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Display_0.png</Source>
+      <Name>Textures\Display_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Display_0.xnb</Output>
+      <Time>2013-04-02T03:11:23.8431216+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Display_1.png</Source>
+      <Name>Textures\Display_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Textures\Display_1.xnb</Output>
+      <Time>2013-04-02T03:11:29.7884617+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Verdana.spritefont</Source>
+      <Name>Fonts\Verdana</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Fonts\Verdana.xnb</Output>
+      <Time>2013-03-22T22:05:40.3405158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\VerdanaText.spritefont</Source>
+      <Name>Fonts\VerdanaText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Fonts\VerdanaText.xnb</Output>
+      <Time>2013-03-22T23:00:06.5773339+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Pop_0.wav</Source>
+      <Name>Sounds\Pop_0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Sounds\Pop_0.xnb</Output>
+      <Time>2013-03-23T00:27:56.0907328+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Launch_1.wav</Source>
+      <Name>Sounds\Launch_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Sounds\Launch_1.xnb</Output>
+      <Time>2013-03-23T00:36:07.2468253+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Pop_1.wav</Source>
+      <Name>Sounds\Pop_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Sounds\Pop_1.xnb</Output>
+      <Time>2013-03-24T20:13:55.344472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Launch_0.wav</Source>
+      <Name>Sounds\Launch_0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\Sounds\Launch_0.xnb</Output>
+      <Time>2013-03-30T19:34:02.2677085+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Smoggert\Documents\Visual Studio 2010\Projects\BubbleShooter\BubbleShooter\BubbleShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-12T15:06:43.514262+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
